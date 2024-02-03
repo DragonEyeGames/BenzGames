@@ -7,4 +7,4 @@ All of these games are in the public domain.
 
 # GBA Emulator Website
 
-https://dragoneyegames.github.io/GoatedGamez/
+https://goatedgamez.github.io/GBA/
